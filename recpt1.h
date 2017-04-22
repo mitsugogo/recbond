@@ -2,6 +2,7 @@
 #ifndef _RECPT1_H_
 #define _RECPT1_H_
 
+#include <pthread.h>
 #include "typedef.h"
 
 #define ARIB_CH_ERROR		0x7FFFFFFFU

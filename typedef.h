@@ -12,6 +12,8 @@ typedef int						SOCKET;
 typedef void *					HMODULE;
 typedef void *					LPVOID;
 
+typedef unsigned char u_char;
+
 #define TRUE			1
 #define FALSE			0
 #define INVALID_SOCKET	-1
